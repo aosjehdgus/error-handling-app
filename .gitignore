@@ -1,0 +1,10 @@
+node_modules/
+
+.cache/
+.pnpm-store/
+
+dist/
+build/
+
+.vscode/
+.DS_Store
